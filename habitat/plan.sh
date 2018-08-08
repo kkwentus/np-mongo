@@ -1,6 +1,6 @@
 pkg_origin=kkwentus
 pkg_name=np-mongodb
-pkg_version=3.2.9
+pkg_version=4
 pkg_description="Mongodb for National-Parks app"
 pkg_maintainer="echohack"
 pkg_license=('AGPL-3.0')
